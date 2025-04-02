@@ -3,3 +3,4 @@
 ## Here is a helpful line
 
     head -n 1 taxbyseq-1743602917413.tsv | tr '\t' '\n' | cut -f 3 -d "-"
+    cut -f 3
